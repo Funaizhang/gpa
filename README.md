@@ -1,2 +1,2 @@
-# gpa
+# GPA
 Gaussian Process Autoencoder
