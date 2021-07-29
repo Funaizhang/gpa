@@ -1,5 +1,8 @@
-gpflow
-tensorflow
-tensorflow-estimator
-tensorflow-probability
+torch
+probflow
+gpytorch
 gym
+tqdm
+matplotlib
+gin-config
+jupyter
