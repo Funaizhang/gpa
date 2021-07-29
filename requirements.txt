@@ -1,0 +1,5 @@
+gpflow
+tensorflow
+tensorflow-estimator
+tensorflow-probability
+gym
